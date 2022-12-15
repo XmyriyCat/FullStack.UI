@@ -1,6 +1,7 @@
 # FullStackUI
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
+This project about employee CRUD operations. The backend was written in C# ASP.NET WEB API.
 
 ## Development server
 
